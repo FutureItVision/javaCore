@@ -2,7 +2,7 @@ package com.primitiveDataType;
 
 public class IntDataType {
 
-
+    static int banana1=0;
     static int banana=2;
     static int lemon=3;
     static int TotalPrice=banana+lemon;
